@@ -1,4 +1,4 @@
-@extends('layouts.app') <!-- Supondo que você tenha um layout chamado 'app.blade.php' configurado em 'resources/views/layouts' -->
+@extends('layouts.app') 
 
 @section('content')
     <div class="container">
